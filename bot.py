@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = '7850771861:AAEe4OdF0rGtyZe72fcz2ukoq12WuNLMFDM'
+TOKEN = ''
 
 # Przechowuj dane o grze
 user_data = {}
